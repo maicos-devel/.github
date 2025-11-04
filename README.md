@@ -13,7 +13,7 @@
 
 ## About Us
 
-The **MAICoS Development Team** creates and maintains open-source Python tools for analyzing molecular dynamics simulations of interfacial and confined systems. Our mission is to provide the scientific community with accessible, powerful, and well-documented software packages that enable researchers to extract meaningful insights from molecular simulations.
+The **MAICoS Development Team** creates and maintains open-source Python tools for **preparing and analyzing molecular dynamics simulations**, focusing on studies of interfacial and confined systems while also offering powerful tools for the calculation of spectra or scattering profiles. Our mission is to provide the scientific community with **accessible, powerful, and well-documented software packages** that enable researchers to extract meaningful insights from molecular simulations and allow to follow the [**F.A.I.R. priciples**](https://www.go-fair.org/fair-principles/).
 
 We develop tools that work seamlessly with popular MD simulation packages (LAMMPS, GROMACS, CHARMM, NAMD) and are built on top of [MDAnalysis](https://www.mdanalysis.org), ensuring compatibility and ease of use for both beginners and experienced users.
 
