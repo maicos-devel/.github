@@ -118,7 +118,6 @@ For more examples and supported file formats, see the [MAICoS documentation](htt
 We welcome users, contributors, and collaborators from around the world!
 
 - **Ask Questions & Discuss**: Join our [Discord Server](https://discord.gg/mnrEQWVAed)
-- **Report Issues**: [GitHub Issues](https://github.com/maicos-devel/maicos/issues)
 - **Stay Updated**: Follow us on [X (Twitter)](https://x.com/maicos_analysis)
 - **Contribute**: See our [Contributing Guide](https://github.com/maicos-devel/maicos/blob/main/CONTRIBUTING.rst)
 
