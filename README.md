@@ -90,8 +90,6 @@ We welcome contributions from the community! Whether you're interested in:
 - Sharing your use cases and examples
 - Helping other users
 
-Please see our [Contributing Guide](https://github.com/maicos-devel/maicos/blob/main/CONTRIBUTING.rst) to get started.
-
 ## 📜 License
 
 All our software is open source and released under the [GNU General Public License v3.0](https://github.com/maicos-devel/maicos/blob/main/LICENSE).
