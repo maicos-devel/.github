@@ -38,7 +38,6 @@ Our flagship package for analyzing the structure and dynamics of interfacial and
 - Dipolar order parameters
 - Velocity and temperature profiles
 - Pair distribution functions (PDF)
-- Radial distribution functions (RDF)
 - Kinetic energy analysis
 
 **Installation:**
