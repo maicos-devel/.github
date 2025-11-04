@@ -74,44 +74,6 @@ Spectral analysis tools for molecular dynamics simulations, enabling frequency-d
 
 A data repository containing example datasets, test files, and tutorials for use with MAICoS and related packages.
 
-## 📖 Resources
-
-- **MAICoS Documentation**: [maicos-analysis.org](https://maicos-analysis.org)
-- **Latest Development Docs**: [maicos-analysis.org/latest](https://maicos-analysis.org/latest)
-- **GitHub Organization**: [github.com/maicos-devel](https://github.com/maicos-devel)
-
-## 💻 Getting Started with MAICoS
-
-Install our flagship package to start analyzing your MD simulations:
-
-```bash
-pip install maicos
-```
-
-Or with conda:
-
-```bash
-conda install -c conda-forge maicos
-```
-
-### Basic Example
-
-Here's a simple example using GROMACS trajectory files to extract a density profile:
-
-```python
-import MDAnalysis as mda
-import maicos
-
-# Load trajectory (works with LAMMPS, GROMACS, CHARMM, NAMD formats)
-u = mda.Universe("conf.gro", "traj.trr")
-dplan = maicos.DensityPlanar(u.atoms).run()
-
-# Access results
-density_profile = dplan.results.profile
-bin_positions = dplan.results.bin_pos
-```
-
-For more examples and supported file formats, see the [MAICoS documentation](https://maicos-analysis.org).
 
 ## 🤝 Join Our Community
 
