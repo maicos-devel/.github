@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://maicos-analysis.org"><img src="https://img.shields.io/badge/📚_Documentation-stable-success" alt="Documentation"></a>
   <a href="https://github.com/maicos-devel/maicos"><img src="https://img.shields.io/github/stars/maicos-devel/maicos?style=social" alt="GitHub stars"></a>
   <a href="https://discord.gg/mnrEQWVAed"><img src="https://img.shields.io/badge/Join-Discord-7289da?logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://x.com/maicos_analysis"><img src="https://img.shields.io/badge/Follow-@maicos_analysis-1DA1F2?logo=x&logoColor=white" alt="X (Twitter)"></a>
