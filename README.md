@@ -26,7 +26,7 @@ We develop tools that work seamlessly with popular MD simulation packages (LAMMP
 
 ## 📦 Our Packages
 
-We develop and maintain the following Python packages for molecular dynamics analysis:
+We currently develop and maintain the following Python packages for molecular dynamics analysis:
 
 ### [MAICoS](https://github.com/maicos-devel/maicos) - Molecular Analysis for Interfacial and Confined Systems
 [![PyPI](https://img.shields.io/pypi/v/maicos)](https://pypi.org/project/maicos/)
