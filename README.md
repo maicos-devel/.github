@@ -34,7 +34,7 @@ Our flagship package for analyzing the structure and dynamics of interfacial and
 
 **Key analysis modules:**
 - Density profiles (planar, cylindrical, spherical)
-- Dielectric properties and spectra
+- Dielectric properties
 - Dipolar order parameters
 - Velocity and temperature profiles
 - Pair distribution functions (PDF)
