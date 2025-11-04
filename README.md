@@ -15,7 +15,7 @@ The **MAICoS Development Team** creates and maintains open-source Python tools f
 
 We develop tools that work seamlessly with popular MD simulation packages (LAMMPS, GROMACS, CHARMM, NAMD) and are built on top of [MDAnalysis](https://www.mdanalysis.org), ensuring compatibility and ease of use for both beginners and experienced users.
 
-## 🛠️ Our Philosophy
+## 📜 Our Philosophy
 
 - **Open Science**: All our software is open source under the GNU General Public License v3.0
 - **User-Focused**: We design for both Python beginners (CLI) and advanced users (Python API)
