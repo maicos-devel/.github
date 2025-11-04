@@ -57,13 +57,19 @@ conda install -c conda-forge maicos
 
 A tool for solvating confined geometries in molecular dynamics simulations. Solvate makes it easy to prepare systems with complex geometries for MD simulations.
 
+*Currently in development*
+
 ### [ScatterKit](https://github.com/maicos-devel/scatterkit)
 
 SAXS (Small-Angle X-ray Scattering) and other scattering analysis tools specifically designed for molecular dynamics simulations. ScatterKit helps researchers compute structure factors and scattering intensities from MD trajectories.
 
+*Currently in development*
+
 ### [SpectraKit](https://github.com/maicos-devel/spectrakit)
 
 Spectral analysis tools for molecular dynamics simulations, enabling frequency-domain analysis of various properties.
+
+*Currently in development*
 
 ### [MAICoSData](https://github.com/maicos-devel/maicosdata)
 
@@ -91,10 +97,13 @@ conda install -c conda-forge maicos
 
 ### Basic Example
 
+Here's a simple example using GROMACS trajectory files to extract a density profile:
+
 ```python
 import MDAnalysis as mda
 import maicos
 
+# Load trajectory (works with LAMMPS, GROMACS, CHARMM, NAMD formats)
 u = mda.Universe("conf.gro", "traj.trr")
 dplan = maicos.DensityPlanar(u.atoms).run()
 
@@ -102,6 +111,8 @@ dplan = maicos.DensityPlanar(u.atoms).run()
 density_profile = dplan.results.profile
 bin_positions = dplan.results.bin_pos
 ```
+
+For more examples and supported file formats, see the [MAICoS documentation](https://maicos-analysis.org).
 
 ## 🤝 Join Our Community
 
