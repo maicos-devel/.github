@@ -106,13 +106,6 @@ Our work is powered by [MDAnalysis](https://www.mdanalysis.org) and made possibl
   </a>
 </p>
 
-## 📬 Contact
-
-For general inquiries about the MAICoS development team, please reach out through:
-- Our [Discord community](https://discord.gg/mnrEQWVAed)
-- [GitHub Discussions](https://github.com/maicos-devel/maicos/discussions)
-- Follow us on [X](https://x.com/maicos_analysis) for updates
-
 ---
 
 <p align="center">
